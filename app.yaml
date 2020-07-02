@@ -11,5 +11,5 @@ libraries:
   version: "0.12"
 - name: numpy
   version: "1.6.1"
-
-
+- name: "scikit-learn"
+  version: "0.20"
